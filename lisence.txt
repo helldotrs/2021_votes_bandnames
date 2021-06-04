@@ -1,0 +1,4 @@
+Please cred when it seems prudent to do so. Do not remove  lisence.txt, or remove/alter any lines, in the creds, but feel free to add a new line for your own contributions.
+
+CREDS: <!--DO NOT REMOVE OR ALTER ANY LINES!!-->
+Originally created by Rebekah Hellberg. April 2021.
