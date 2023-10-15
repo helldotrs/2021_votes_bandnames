@@ -10,4 +10,4 @@ $conn=  new mysqli($sql_host, $sql_user, $sql_pass, $sql_db);
 if($conn->connect_error)
   die("connect error 2831: ". $conn->connect_error);
 
-echo "<!--sql-connecp.inc.php-->";
+echo "<!--sql-connect.inc.php-->";
